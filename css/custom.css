@@ -242,13 +242,13 @@ footer{
 }
 
 
-#oferta-contenido{
+#oferta-contenido, #actualidad-contenido, #socios-contenido{
     margin:  60px 0;
 
 
 }
 
-#oferta-contenido article{
+#oferta-contenido article {
   padding: 6px;
   color:#fff;
   background:#636b6d;
@@ -267,7 +267,7 @@ margin-bottom: 30px;
 
 }
 
-.detalle-curso, .resultado-busqueda{
+.detalle-curso, .resultado-busqueda, .listado-aliados{
   bottom:0;
 }
 
