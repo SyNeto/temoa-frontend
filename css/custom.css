@@ -64,6 +64,8 @@ div, ul, li, img {
   outline: none;
 
 }
+#imagen-destacada img{width: 100%;}
+
 
 #content {
   display: block;
@@ -243,7 +245,7 @@ footer{
 
 
 #oferta-contenido, #actualidad-contenido, #socios-contenido{
-    margin:  60px 0;
+    margin:  120px 0 60px 0;
 
 
 }
