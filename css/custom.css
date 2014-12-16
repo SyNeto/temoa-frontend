@@ -297,6 +297,10 @@ margin-top: 48px;
   margin-top:  120px;
 }
 
+#resultados-busqueda{
+  margin-bottom:  120px;
+}
+
 
 #oferta-contenido, #actualidad-contenido, #socios-contenido{
     margin:  120px 0 60px 0;
@@ -334,6 +338,16 @@ margin-bottom: 30px;
 .detalle-curso, .resultado-busqueda, .listado-aliados{
   bottom:0;
 }
+
+
+#mi-perfil{
+  margin-top: 30px;
+}
+
+
+
+
+
 
 @media screen and (max-width: 1024px) {
   .carousel {
